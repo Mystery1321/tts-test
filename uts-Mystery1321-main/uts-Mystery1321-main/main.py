@@ -2,7 +2,7 @@ from SLLNCStack import Stack
 import math
 
 def mergeStacksInterleave(stack1: Stack, stack2: Stack) -> Stack:
-    merged_stack = Stack(stack1,stack2)
+    merged_stack = Stack()
 
     return merged_stack
     
