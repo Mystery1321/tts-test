@@ -1,6 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/b7sdw6Q7)
 # UTS2024
-## Joshua Benevan W (71190510)
 ## KERJAKAN DI (***main.py***)  
 Anda diberikan sebuah class Stack dengan methode sebagai berikut:
 - __len__():    
